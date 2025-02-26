@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Heirloom tomatoes",
+      "price_per_lb": 3.29,
+      "icon": "./tomatoes.png"
+    },
+    {
+      "id": 2,
+      "name": "Ginger",
+      "price_per_lb": 1.99,
+      "icon": "./ginger.png"
+    },
+    {
+      "id": 3,
+      "name": "Onion",
+      "price_per_lb": 2.49,
+      "icon": "./onion.png"
+    },
+    {
+      "id": 4,
+      "name": "Carrots",
+      "price_per_lb": 1.79,
+        "icon": "./carrot.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Bell Peppers",
+      "price_per_lb": 2.99,
+      "icon": "./Bellpepper.jpg"
+    }
+  ]
+  
